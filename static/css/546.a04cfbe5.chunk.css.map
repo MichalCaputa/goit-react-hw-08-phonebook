@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/546.a04cfbe5.chunk.css","mappings":"AAAA,2BACE,kBACF,CACA,iCACE,gBACF","sources":["components/Form/PhoneBookForm.module.css"],"sourcesContent":[".form {\n  margin-bottom: 25px;\n}\n.form-input {\n  margin-right: 8px;\n}\n"],"names":[],"sourceRoot":""}
