@@ -1,0 +1,9 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 4px;
+  padding: 20px;
+}
